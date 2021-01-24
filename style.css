@@ -1,0 +1,15 @@
+td{
+    width: 100px;
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: grey;
+}
+
+input[type="number"] {
+    width: 100px;
+ }
+
+
